@@ -82,10 +82,6 @@ Created by Katalam
 - [Exposure](abc)
 - [Misc](abc)
 
-## Class Names
-
-- [click here](https://github.com/Katalam/kat_aceAdvMedical/wiki/Class-Names)
-
 ## Contributing
 
 You can help out with the ongoing development by looking for potential bugs in my code base, or by contributing new features. I am always welcome to new pull requests containing bug fixes, refactors and new features.
